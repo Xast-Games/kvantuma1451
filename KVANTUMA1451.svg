@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="1.8709978"
-     inkscape:cx="829.5039"
-     inkscape:cy="286.21091"
+     inkscape:zoom="3.0494584"
+     inkscape:cx="884.09141"
+     inkscape:cy="212.33278"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -728,7 +728,7 @@
        d="M 555 -147.00055 A 8.000001 7 0 0 0 559 -140.93805 A 8.000001 7 0 0 0 567 -140.93805 A 8.000001 7 0 0 0 571 -147.00055 L 565.28516 -147.00055 A 2.2857146 2 0 0 1 563 -145.00055 A 2.2857146 2 0 0 1 560.71484 -147.00055 L 555 -147.00055 z " /><path
        id="path130639-6"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06905;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 494,52.499839 a 8.000001,7 0 0 0 4,6.0625 8.000001,7 0 0 0 8,0 8.000001,7 0 0 0 4,-6.0625 h -5.71484 a 2.2857146,2 0 0 1 -2.28516,2 2.2857146,2 0 0 1 -2.28516,-2 z" /><rect
+       d="M 494 52.499446 A 8.000001 7 0 0 0 498 58.561946 A 8.000001 7 0 0 0 506 58.561946 A 8.000001 7 0 0 0 510 52.499446 L 504.28516 52.499446 A 2.2857146 2 0 0 1 502 54.499446 A 2.2857146 2 0 0 1 499.71484 52.499446 L 494 52.499446 z M 490 60.999446 L 490 86.999446 L 495 86.999446 L 495 84.534603 L 509 70.534603 L 509 86.999446 L 514 86.999446 L 514 60.999446 L 509 60.999446 L 509 63.46429 L 495 77.46429 L 495 60.999446 L 490 60.999446 z " /><rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect159022"
        width="5"
@@ -750,9 +750,6 @@
        id="rect14543"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
        d="M 453 60.999446 L 453 86.999446 L 458 86.999446 L 458 84.534603 L 472 70.534603 L 472 86.999446 L 477 86.999446 L 477 60.999446 L 472 60.999446 L 472 63.46429 L 458 77.46429 L 458 60.999446 L 453 60.999446 z " /><path
-       id="rect14543-0"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
-       d="m 490,61 v 26 h 5 v -2.464843 l 14,-14 V 87 h 5 V 61 h -5 v 2.464844 l -14,14 V 61 Z" /><path
        id="rect15562"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
        d="M 530 60.999446 L 530 86.999446 L 535 86.999446 L 535 76.999446 L 549 76.999446 L 549 86.999446 L 554 86.999446 L 554 60.999446 L 549 60.999446 L 549 71.999446 L 535 71.999446 L 535 60.999446 L 530 60.999446 z " /><path
